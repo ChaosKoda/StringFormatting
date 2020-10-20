@@ -1,5 +1,4 @@
-#This script shows different built in 
-#formatting options - written by Kody Noe
+#This script shows different built in formatting options - written by Kody Noe
 
 
 names = ['Jeff', 'Gary', 'Jill', 'Samantha', ]
